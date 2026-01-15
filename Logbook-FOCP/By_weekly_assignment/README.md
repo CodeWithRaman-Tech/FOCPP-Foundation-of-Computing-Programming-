@@ -1,8 +1,4 @@
-# Logbook - Fundamentals of Computer Programming (FOCP)
-
-This repository contains weekly lecture notes, Jupyter notebooks, and assignments for the **FOCP module**.  
-All notes are written in simple and clear English to help understanding and revision.  
-The work is organized by **week** for easy access.  
+# Logbook - Fundamentals of Computer Programming (FOCP) 
 
 ---
 
