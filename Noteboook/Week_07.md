@@ -1,5 +1,6 @@
 **Week 7 – Summary Notes**
-**Level 4, Semester 1 – BSc Computing (Leeds Beckett University)**.
+**Level 4, Semester 1 – BSc (hons) Computing (Leeds Beckett University)**.
+
 **“Sets and Dictionaries – Fundamentals of Computer Programming”**.
 
 ---
