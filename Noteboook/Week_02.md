@@ -1,9 +1,9 @@
-**Week 1 – Summary Notes**
+**Week 2 – Summary Notes**
 **Level 4, Semester 1, BSc (hons) Computing – Leeds Beckett University**
 **“Variables and Types – Fundamentals of Computer Programming”** 
 
 
-# **Week 1 – Variables, Data Types and Basic Python Concepts**
+# **Week 2 – Variables, Data Types and Basic Python Concepts**
 
 ## **1. Purpose of This Week**
 
