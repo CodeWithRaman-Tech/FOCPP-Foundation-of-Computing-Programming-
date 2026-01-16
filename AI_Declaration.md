@@ -1,6 +1,3 @@
-Here is a **more formal and academic version**, suitable for a **Markdown (`.md`) file** to submit on **GitHub** for your module or portfolio.
-
-You can copy-paste this directly into your `README.md` or a separate section like `AI_Use.md`.
 
 ---
 
